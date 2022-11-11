@@ -46,3 +46,5 @@
 <a border-radius="5px" mailto="l.n.almeida.ti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### Muito obrigado pela visita!
+
+![Snake animation](https://github.com/lnalmeida/lnalmeida/blob/output/github-contribution-grid-snake.svg)

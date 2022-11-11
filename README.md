@@ -6,9 +6,10 @@
 <div align="center" width="75%">
   <a href="https://github.com/lnalmeida">
   <img align="center" "height="180em"  src="https://github-readme-stats.vercel.app/api?username=lnalmeida&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnalmeida&langs_count=7&theme=gotham"/>
+  <img align="center" height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnalmeida&langs_count=4&theme=gotham"/>
 </div>
-<div align="center" style="display: inline_block"><br>
+
+<div align="center" height="50em" style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,3 +24,25 @@
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
                   
 </div>
+<div align="left">
+                 
+ ## Um pouco sobre mim
+ 
+ Sou um apaixonado por Deus, pela família, por jiu-jitsu, por tecnologia e desenvolvimento e por voluntariado, tendo trabalhado como programador de sistemas desktop usando Delphi, hoje procuro me recolocar no mercado de desenvolvimento utilizando algumas tecnologias web, porém, sempre buscando afiar a lógica, pois é ela quem garante que eu possa me manter atualizado. Aqui mantenho projetos feitos com fins didáticose com muita dedicação. Podem ficar à vontade!
+</div>
+                 
+
+<div align="left">
+  
+  ## Algunas formas de me encontrar
+
+  Abaixo, deixo algum links, como uma forma de me encontrarem, caso desejem, ok?
+
+</div>          
+                 
+<a border-radius="5px" href="linkedin.com/in/luiz-n-almeida" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a border-radius="5px" href="[https://contate.me/luiznunesdev](https://api.whatsapp.com/send?phone=5521983385419)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a border-radius="5px" href="https://t.me/lnalmeidajr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a border-radius="5px" mailto="l.n.almeida.ti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+### Muito obrigado pela visita!

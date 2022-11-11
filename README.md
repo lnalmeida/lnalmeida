@@ -2,7 +2,7 @@
 <div align="center" width="75%">
   <a href="https://github.com/lnalmeida">
   <img align="center" "height="180"  src="https://github-readme-stats.vercel.app/api?username=lnalmeida&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img align="center" height="186" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnalmeida&layout=compact&langs_count=7&theme=gotham"/>
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnalmeida&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

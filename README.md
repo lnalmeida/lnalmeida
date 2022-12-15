@@ -28,7 +28,8 @@
                  
  ## Um pouco sobre mim
  
- Sou um apaixonado por Deus, pela família, por jiu-jitsu, por tecnologia e desenvolvimento e por voluntariado, tendo trabalhado como programador de sistemas desktop usando Delphi, hoje procuro me recolocar no mercado de desenvolvimento utilizando algumas tecnologias web, porém, sempre buscando afiar a lógica, pois é ela quem garante que eu possa me manter atualizado. Aqui mantenho projetos feitos com fins didáticose com muita dedicação. Podem ficar à vontade!
+Sou um apaixonado por Deus, pela família, por jiu-jitsu, por tecnologia e desenvolvimento e por voluntariado, tendo trabalhado como programador de sistemas desktop usando Delphi, hoje procuro me recolocar no mercado de desenvolvimento utilizando algumas tecnologias web, porém, sempre buscando afiar a lógica, pois é ela quem garante que eu possa me manter atualizado. Aqui mantenho projetos feitos com fins didáticos e com muita dedicação. Pode ficar à vontade!<br/>
+Se quiser, pode dar uma olhadinha no meu portifólio: https://lna-next-js-portfolio.vercel.app/
 </div>
                  
 
@@ -36,7 +37,7 @@
   
   ## Algunas formas de me encontrar
 
-  Abaixo, deixo algum links, como uma forma de me encontrarem, caso desejem, ok?
+  Abaixo, deixo algum links, como uma forma de me encontrarem caso deseje, ok?
 
 </div>          
                  

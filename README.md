@@ -52,4 +52,4 @@ Se quiser, pode dar uma olhadinha no meu portifólio: https://lna-next-js-portfo
 
 ### Muito obrigado pela visita!
 
-![Snake animation](https://github.com/lnalmeida/lnalmeida/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/lnalmeida/lnalmeida/blob/output/github-contribution-grid-snake.svg)

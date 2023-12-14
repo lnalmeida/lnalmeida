@@ -52,4 +52,5 @@ Se quiser, pode dar uma olhadinha no meu portifólio: https://lna-next-js-portfo
 
 ### Muito obrigado pela visita!
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Jo7Cu93qRLGyxe55IX" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DesusAndMeroOnShowtime-showtime-desus-and-mero-on-Jo7Cu93qRLGyxe55IX">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xTiN0L84olKEvRpD32" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/bjthechicagokid-bj-the-chicago-kid-xTiN0L84olKEvRpD32"></a></p>

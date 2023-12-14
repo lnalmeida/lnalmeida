@@ -52,5 +52,4 @@ Se quiser, pode dar uma olhadinha no meu portifólio: https://lna-next-js-portfo
 
 ### Muito obrigado pela visita!
 
-<iframe src="https://giphy.com/embed/xTiN0L84olKEvRpD32" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/bjthechicagokid-bj-the-chicago-kid-xTiN0L84olKEvRpD32"></a></p>
+
